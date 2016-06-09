@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1446160325 source:d:\programming\code block\car savings calculator\car savings calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
